@@ -1,4 +1,4 @@
-## Nice to meet you, I'm Static ⚡ ###
+## Nice to meet you, I'm Static! ⚡ ###
 
 ### I'm a Full-Stack (Backend-Leaning) developer with a passion for cross platform software! ###
 - Currently, I'm in college pursuing a Bachelors in Computer Science, with a minor in Cybersecurity, and working on both freelance and FOSS projects!
