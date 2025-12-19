@@ -3,7 +3,8 @@
 ### I'm a Full-Stack (Backend-Leaning) developer with a passion for cross platform software! ###
 - Having been a part of the Microsoft ecosystem for nearly 20 years, my primary language is C#.
 
-- This familiarity was so strong, my switch from Windows 10 <img width="13px" height="13px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg"> to Linux Mint <img width="13px" height="13px" src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/badge.svg"> did not cause me to switch to rust or c++ as is common among new linux users.
+- This familiarity was so strong, my switch from Windows 10 <img width="13px" height="13px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg"> to Linux Mint <img width="13px" height="13px" src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/badge.svg"> did not cause me to switch to rust or c++ as is common among new linux users, although I have written in both of these languages.
+
 
 ### Languages I've Used
 | Language | Dates Used | Familarity ⭐⭐⭐⭐⭐     |
