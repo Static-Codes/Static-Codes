@@ -17,6 +17,7 @@
 | Node | Feb. 2021 - Present | ⭐⭐ |
 | Rust | June 2025 - Present | ⭐⭐ |
 | Bash | Sept. 2025 - Present | ⭐⭐ |
+| Batch | Feb. 2023 - March 2025 | ⭐⭐ |
 | VB (.NET) | Feb. 2017 - Nov. 2017 | ⭐ |
 | C++ | July. 2025 - Present | ⭐ |
 
