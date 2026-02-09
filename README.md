@@ -4,7 +4,7 @@
 - Currently, I'm in college pursuing a Bachelors in Computer Science, with a minor in Cybersecurity, and working on both freelance and FOSS projects!
 
 ### Languages I've Used
-| Language | Dates Used | Familarity ⭐⭐⭐⭐⭐     |
+| Language | Time Used | Familarity ⭐⭐⭐⭐⭐     |
 | :-------- | :------- | :------------------------- |
 | C# (.NET) | Nov. 2016 - Present | ⭐⭐⭐⭐⭐ |
 | Python | Feb. 2017 - Present | ⭐⭐⭐⭐⭐ |
