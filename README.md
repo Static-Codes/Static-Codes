@@ -18,4 +18,3 @@
 | PHP | Feb. 2017 - Jan. 2019 | ⭐⭐ |
 | Rust | June 2025 - Present | ⭐⭐ |
 | Batch | Feb. 2023 - March 2025 | ⭐⭐ |
-| VB (.NET) | Feb. 2017 - Nov. 2017 | ⭐ |
