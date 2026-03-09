@@ -10,11 +10,11 @@
 | Python | Feb. 2017 - Present | ⭐⭐⭐⭐⭐ |
 | HTML/CSS/JS | April 2016 - Present | ⭐⭐⭐⭐ |
 | SQL | Feb. 2017 - Present | ⭐⭐⭐ |
+| Bash | Sept. 2025 - Present | ⭐⭐⭐ |
 | Powershell | Jan. 2017 - Sept. 2025 | ⭐⭐
 | PHP | Feb. 2017 - Jan. 2019 | ⭐⭐ |
 | Node | Feb. 2021 - Present | ⭐⭐ |
 | Rust | June 2025 - Present | ⭐⭐ |
-| Bash | Sept. 2025 - Present | ⭐⭐ |
 | Batch | Feb. 2023 - March 2025 | ⭐⭐ |
 | VB (.NET) | Feb. 2017 - Nov. 2017 | ⭐ |
 | C++ | July. 2025 - Present | ⭐ |
