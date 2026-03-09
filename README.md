@@ -14,7 +14,6 @@
 | ASP (.NET) | March 2026 - Present | ⭐⭐ |
 | C++ | July. 2025 - Present | ⭐⭐ |
 | Node | Feb. 2021 - Present | ⭐⭐ |
-| Powershell | Jan. 2017 - Sept. 2025 | ⭐⭐ |
+| Powershell/Batch | Jan. 2017 - Sept. 2025 | ⭐⭐ |
 | PHP | Feb. 2017 - Jan. 2019 | ⭐⭐ |
-| Rust | June 2025 - Present | ⭐⭐ |
-| Batch | Feb. 2023 - March 2025 | ⭐⭐ |
+| Rust | June 2025 - Present | ⭐⭐ 
