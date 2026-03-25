@@ -2,7 +2,7 @@
 
 ### I'm a Full-Stack (Backend-Leaning) developer with a passion for cross platform software! ###
 - Currently, I'm in college pursuing a Bachelors in Computer Science, with a minor in Cybersecurity.
-- I also love volunteering with multiple FOSS projects,and non-profits!
+- I also love volunteering, I currently work with multiple FOSS projects and non-profits!
 
 ### My Development Timeline
 | Language | Time Used | Familarity ⭐⭐⭐⭐⭐     |
