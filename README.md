@@ -2,16 +2,16 @@
 
 <div align="center">
   
-  <h1> Nice to meet you, I'm Static! ⚡</h1>
+  <h2> Nice to meet you, I'm Static! ⚡</h2>
 
-  <h3>I'm a Full-Stack (Backend-Leaning) developer with a passion for cross platform software!</h3>
+  <h4>I'm a Full-Stack (Backend-Leaning) developer with a passion for cross platform software!</h4>
     <p>- Currently, I'm in college pursuing a Bachelors in Computer Science, with a minor in Cybersecurity.</p>
     <p>- I also love volunteering, I currently work with multiple FOSS projects and non-profits!</p>
 </div>
 
 ---
 
-<h3 align="center"> My Top Languages </h3>
+<h4 align="center"> My Top Languages </h4>
 <div align="center" style="display: block; 
            margin-left: auto;
            margin-right: auto;
@@ -19,7 +19,7 @@
   <img src="./profile/top-langs.svg"/>
 </div>
 
-<h3 align="center"> My Development Timeline </h3>
+<h4 align="center"> My Development Timeline </h4>
 
 <div align="center" style="display: block; 
            margin-left: auto;
