@@ -3,7 +3,15 @@ name: Update README cards
 on:
   schedule:
     - cron: "0 0 * * FRI" # Runs once every friday as to not use up the free github runner minutes.
+    
+# Allows manual triggering of this update action via the repository's "Actions" tab 
+on:
   workflow_dispatch:
+    inputs:
+      reason:
+        description: "Reason for running"
+        required: true
+        default: "Testing functionality."
 
 jobs:
   build:
