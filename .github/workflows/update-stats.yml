@@ -4,8 +4,7 @@ on:
   schedule:
     - cron: "0 0 * * FRI" # Runs once every friday as to not use up the free github runner minutes.
     
-# Allows manual triggering of this update action via the repository's "Actions" tab 
-on:
+  # Allows manual triggering of this update action via the repository's "Actions" tab 
   workflow_dispatch:
     inputs:
       reason:
