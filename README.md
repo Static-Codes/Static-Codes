@@ -1,12 +1,34 @@
-## Nice to meet you, I'm Static! ⚡ ###
 
-### I'm a Full-Stack (Backend-Leaning) developer with a passion for cross platform software! ###
-- Currently, I'm in college pursuing a Bachelors in Computer Science, with a minor in Cybersecurity.
-- I also love volunteering, I currently work with multiple FOSS projects and non-profits!
 
-### My Development Timeline
+<div align="center">
+  
+  <h1> Nice to meet you, I'm Static! ⚡</h1>
+
+  <h3>I'm a Full-Stack (Backend-Leaning) developer with a passion for cross platform software!</h3>
+    <p>- Currently, I'm in college pursuing a Bachelors in Computer Science, with a minor in Cybersecurity.</p>
+    <p>- I also love volunteering, I currently work with multiple FOSS projects and non-profits!</p>
+</div>
+
+---
+
+<h3 align="center"> My Top Languages </h3>
+<div align="center" style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 100%;">
+  <img src="./profile/top-langs.svg"/>
+</div>
+
+<h3 align="center"> My Development Timeline </h3>
+
+<div align="center" style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 80%;">
+  
+
 | Language | Time Used | Familarity ⭐⭐⭐⭐⭐     |
-| :-------- | :------- | :------------------------- |
+| :-------: | :------: | :------------------------: |
 | C# (.NET) | Nov. 2016 - Present | ⭐⭐⭐⭐⭐ |
 | Python | Feb. 2017 - Present | ⭐⭐⭐⭐⭐ |
 | HTML/CSS/JS | April 2016 - Present | ⭐⭐⭐⭐ |
@@ -18,3 +40,5 @@
 | Powershell/Batch | Jan. 2017 - Sept. 2025 | ⭐⭐ |
 | PHP | Feb. 2017 - Jan. 2019 | ⭐⭐ |
 | Rust | June 2025 - Present | ⭐⭐ 
+
+</div>
