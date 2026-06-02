@@ -26,7 +26,7 @@
            width: 80%;">
   
 
-| Language | Time Used | Familarity ⭐⭐⭐⭐⭐     |
+| Language | Time Used | Proficiency                |
 | :-------: | :------: | :------------------------: |
 | C# (.NET) | Nov. 2016 - Present | ⭐⭐⭐⭐⭐ |
 | Python | Feb. 2017 - Present | ⭐⭐⭐⭐⭐ |
