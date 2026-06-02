@@ -5,8 +5,7 @@
   <h2> Nice to meet you, I'm Static! ⚡</h2>
 
   <h4>I'm a Full-Stack (Backend-Leaning) developer with a passion for cross platform software!</h4>
-    <p>- Currently, I'm in college pursuing a Bachelors in Computer Science, with a minor in Cybersecurity.</p>
-    <p>- I also love volunteering, I currently work with multiple FOSS projects and non-profits!</p>
+    <p>- I also love volunteering! I currently work with multiple FOSS projects and non-profits!</p>
 </div>
 
 ---
