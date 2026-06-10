@@ -12,7 +12,7 @@
     <p> 
       I have dedicated myself to the betterment of not only myself, but everyone I interact with regularly. 
       This led me to contribute to multiple open source projects and work with various non-profits. <br><br>
-      When I'm not volunteering, you'll find me researching a plethora of topics in both cybersecurity and philosphy. 
+      When I'm not volunteering, you'll find me researching a plethora of topics in both cybersecurity and philosophy. 
       I am always looking to learn, improve, and grow in all aspects of my life!
     </p>
   </div>
