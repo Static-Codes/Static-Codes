@@ -1,43 +1,54 @@
-
-
-<div align="center">
-  
-  <h2> Nice to meet you, I'm Static! ⚡</h2>
-
-  <h4>I'm a Full-Stack (Backend-Leaning) developer with a passion for cross platform software!</h4>
-    <p>- I also love volunteering! I currently work with multiple FOSS projects and non-profits!</p>
+<div id="about" align="center">
+  <h2>Nice to meet you, I'm Static! ⚡ </h2>
+  <h3><b>About Me</b></h3>
+  <p>I'm a Full-Stack (Backend-Leaning) developer with a passion for cross platform software!</p>
+  <p>I also love volunteering, and currently work with multiple open source projects and non-profits!</p>
 </div>
+<br>
 
----
 
-<h4 align="center"> My Top Languages </h4>
-<div align="center" style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 100%;">
-  <img src="./profile/top-langs.svg"/>
+<div id="main-stack-wrapper" align="center">
+  <h3>Main Tech Stack</h3>
+
+| Operating Systems | Staging & Deployment | Cross Platform Development | Databases |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=linux,apple,windows" /> | <img src="https://skillicons.dev/icons?i=github,githubactions,cloudflare,git,docker,postman,bash,powershell,lua&perline=3" /> | <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,py,selenium,flask,js,html,css,ts,react,tailwind&perline=3" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&perline=3" /> |
+
 </div>
+<br>
 
-<h4 align="center"> My Development Timeline </h4>
 
-<div align="center" style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 80%;">
-  
+<div id="niche-stack-wrapper" align="center">
+  <h2>Additional Stacks</h2>
+    <p>For a list of technologies I am familiar with but use less frequently, you can click 
+      <a href="./NICHE.md">here</a>
+    </p>
+</div>
+<br>
 
-| Language | Time Used | Proficiency                |
-| :-------: | :------: | :------------------------: |
-| C# (.NET) | Nov. 2016 - Present | ⭐⭐⭐⭐⭐ |
-| Python | Feb. 2017 - Present | ⭐⭐⭐⭐⭐ |
-| HTML/CSS/JS | April 2016 - Present | ⭐⭐⭐⭐ |
-| SQL | Feb. 2017 - Present | ⭐⭐⭐ |
-| Bash | Sept. 2025 - Present | ⭐⭐⭐ |
-| ASP (.NET) | March 2026 - Present | ⭐⭐ |
-| Java | May 2026 - Present | ⭐⭐ 
-| Node/React | Feb. 2021 - Present | ⭐⭐ |
-| Powershell/Batch | Jan. 2017 - Sept. 2025 | ⭐⭐ |
-| PHP | Feb. 2017 - Jan. 2019 | ⭐⭐ |
-| C++ | July. 2025 - Present | ⭐ |
-| Rust | June 2025 - Present | ⭐
+
+<div id="project-wrapper" align="center">
+  <h2>My Projects</h2>
+    <p>A detailed overview of my projects can be found
+      <a href="https://github.com/Static-Codes?tab=repositories">here</a>
+    </p>
+</div>
+<br>
+
+
+<div id="github-activity" align="center">
+  <h2>📊 GitHub Stats & Activity</h2>
+  <p><img width="49%" src="./profile/stats.svg"/></p>
+  <p><img width="49%" src="./profile/streak.svg"/></p>
+  <p><img src="./profile/top-langs.svg"/></p>
+</div>
+<br>
+
+<div id="contact" align="center">
+  <h2>Let's Connect! ⚡</h2>
+  <p>
+    <a href="mailto:contact@staticcodes.dev">
+      <img src="https://img.shields.io/badge/My%20Email-contact@staticcodes.dev-blue" />
+    </a>
+  </p>
 </div>
