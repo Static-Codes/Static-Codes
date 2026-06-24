@@ -2,20 +2,13 @@
   <h2> Nice to meet you, I'm Static! ⚡ </h2>
   <h2><b> About Me </b></h2>
 
-  <div id="role">
-    <h3> My Role </h3>
-    <p> I'm a Full-Stack <b>(Backend-Leaning)</b> developer with a passion for cross platform software! </p>
-  </div>
-
-  <div id="life">
-    <h3> My Life </h3>
-    <p> 
+  <p> I'm a Full-Stack <b>(Backend-Leaning)</b> developer with a passion for cross platform software! </p>
+  <p> 
       I have dedicated myself to the betterment of not only myself, but everyone I interact with regularly. 
       This led me to contribute to multiple open source projects and work with various non-profits. <br><br>
       When I'm not volunteering, you'll find me researching a plethora of topics in both cybersecurity and philosophy. 
       I am always looking to learn, improve, and grow in all aspects of my life!
-    </p>
-  </div>
+  </p>
   
 </div>
 <br>
