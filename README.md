@@ -38,12 +38,12 @@
 </div>
 
 
-<div id="project-wrapper" align="left">
+<!-- <div id="project-wrapper" align="left">
   <h2>My Projects</h2>
     <p>A detailed overview of my projects can be found
       <a href="https://github.com/Static-Codes?tab=repositories">here</a>
     </p>
-</div>
+</div> -->
 
 <div id="my-activity" align="left">
   <h2>📊 My Activity </h2>
