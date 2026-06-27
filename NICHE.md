@@ -16,6 +16,7 @@
   <p><img src="https://skillicons.dev/icons?i=cpp,cmake,qt,debian,mint,raspberrypi&perline=3"/></p>
   
   <p>Related Projects: <br>
+    <a href="https://github.com/Static-Codes/autocmake">auto2cmake</a><br>
     <a href="https://github.com/Static-Codes/BrowserAutomationMaster">BrowserAutomationMaster (BAMM)</a><br>
   </p>
 
