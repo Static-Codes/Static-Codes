@@ -22,6 +22,14 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      # - name: Generate stats card
+      #   uses: readme-tools/github-readme-stats-action@v1
+      #   with:
+      #     card: stats
+      #     options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
+      #     path: profile/stats.svg
+      #     token: ${{ secrets.STATS_README }}
+      
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
